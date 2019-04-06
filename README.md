@@ -1,1 +1,1 @@
-# react-business
+# react-business-directory
